@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+##Im a python programmer 
+
+#Let me know if you are one with the forks
+
+```
+import this
+```
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Novas)](https://github.com/Rodrigo-Novas/github-readme-stats)
 
 
