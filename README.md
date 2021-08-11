@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Im a python programmer 
 
-# Let me know if you are one with the forks
+### Let me know if you are one with the forks
 
 ```
 import this
